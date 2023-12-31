@@ -34,7 +34,7 @@ const Navbar = () => {
                    navLink
                  }
                </ul>
-               {/* <img src="https://i.ibb.co/nmML5mJ/neaj-logo.jpg" alt=""></img> */}
+              
                </div>  
        </div>
    </div>
