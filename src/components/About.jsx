@@ -18,7 +18,7 @@ const About = () => {
                                     loop: true,
                                 }}
                             /> </h1>
-                <p className="text-lg font-semibold pb-6 ">If you need any services inbox me.. </p>
+                <p className="text-lg font-semibold pb-6 ">If you need any services contact me.. </p>
                 <p className='text-2xl font-semibold'>My skill</p>
                <ol className='font-bold text-xl'>
                 <li>1. Characters design</li>

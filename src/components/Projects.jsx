@@ -15,7 +15,7 @@ const Projects = () => {
     }, []);
 
     return (
-        <div id="projects" className=" py-12 lg:py-32 text-white sm:max-w-[370px] lg:max-w-7xl mx-auto">
+        <div id="projects" className=" py-12 lg:py-32 text-white max-w-[370px] lg:max-w-7xl mx-auto">
               <h1 className="text-center pb-28 text-3xl font-bold uppercase lg:text-5xl text-amber-500">My Work</h1>
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
                 {
