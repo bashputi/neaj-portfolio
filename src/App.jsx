@@ -56,10 +56,11 @@ const App = () => {
       </div>
       <div id="elem" ref={elemRef}></div>
       <Home></Home>
-      </div>
       <About></About>
       <Projects></Projects>
       <Contact></Contact>
+      </div>
+    
     </div>
   </div>
   );

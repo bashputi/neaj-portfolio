@@ -2,12 +2,12 @@ import Typewriter from 'typewriter-effect';
 
 const About = () => {
     return (
-        <div id="about" className=" py-8 lg:py-28 text-white max-w-7xl mx-auto">
-            <h1 className="text-center pb-28 text-3xl font-bold lg:text-5xl text-amber-500"> About Me</h1>
+        <div id="about" className=" py-12 lg:py-32 text-white max-w-7xl mx-auto">
+            <h1 className="text-center pb-28 text-3xl font-bold uppercase lg:text-5xl text-amber-500"> About Me</h1>
          <div className="lg:flex justify-center">
-         <div className=" flex-1 px-4 lg:pl-24">
+         <div className=" flex-1 lg:pl-24">
                 {/* img  */}
-                <img className="w-96 shadow-xl shadow-slate-700 rounded-full lg:rounded-sm" src="https://i.ibb.co/ySDvCV9/neaj.jpg" alt="photo of neaj" />
+                <img className="w-[370px] lg:w-[400px] shadow-xl shadow-slate-700 rounded-full lg:rounded-sm" src="https://i.ibb.co/ySDvCV9/neaj.jpg" alt="photo of neaj" />
             </div>
             <div className="pt-5 px-4 flex-1">
                 {/* text  */}
