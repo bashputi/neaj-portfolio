@@ -6,6 +6,7 @@ import Contact from "./components/Contact";
 import './App.css';
 import { useEffect, useRef } from 'react';
 import { gsap, Expo } from 'gsap';
+import Footer from "./components/Footer";
 
 const App = () => {
   const fsRef = useRef(null);
@@ -59,6 +60,7 @@ const App = () => {
       <About></About>
       <Projects></Projects>
       <Contact></Contact>
+      <Footer></Footer>
       </div>
     
     </div>
