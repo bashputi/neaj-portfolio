@@ -47,12 +47,12 @@ const App = () => {
       <div id="main">
       <div id="fs" ref={fsRef}>
         <div ref={textRef} className="text-center text-[#06031a] pt-56 ">
-        <h1 className="inline font-bold text-4xl text-white" >NEAJ</h1>
-        <h1 className="inline font-bold text-4xl text-[#9acd32]"> MORSHED</h1>
+        <h1 className="inline font-bold text-4xl lg:text-7xl text-white" >NEAJ</h1>
+        <h1 className="inline font-bold text-4xl lg:text-7xl text-[#9acd32]"> MORSHED</h1>
        <br />
        <br />
-            <h3 className=" inline font-bold text-2xl text-white pl-32 ">is</h3>
-            <h3 className=" inline font-bold text-2xl text-white"> a</h3>
+            <h3 className=" inline font-bold text-2xl lg:text-4xl text-white pl-32 ">is</h3>
+            <h3 className=" inline font-bold text-2xl lg:text-4xl text-white"> a</h3>
             </div>
       </div>
       <div id="elem" ref={elemRef}></div>

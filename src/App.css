@@ -8,7 +8,8 @@
 #fs {
   width: 100%;
   height: 100vh;
-  background: #716f6f;
+  --tw-bg-opacity: 1;
+    background-color: rgb(100 116 139 / var(--tw-bg-opacity));
 }
 #elem {
   width: 100%;
